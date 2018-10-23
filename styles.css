@@ -1,0 +1,9 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&subset=cyrillic');
+
+body {
+  font-family: "Fira Mono", monospace;
+
+  -webkit-font-smoothing: antialising;
+  -moz-osx-font-smoothing: grayscale;
+}
